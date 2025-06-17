@@ -5,8 +5,7 @@ Este repositorio contiene los Dockerfiles utilizados en el laboratorio para gene
 ##  Requisitos
 
 - Docker instalado
-- Wireshark (opcional, para análisis de tráfico)
-
+- 
 ##  Paso 1: Crear la red compartida
 
 ```bash
