@@ -5,7 +5,7 @@ Este repositorio contiene los Dockerfiles utilizados en el laboratorio para gene
 ##  Requisitos
 
 - Docker instalado
-- 
+  
 ##  Paso 1: Crear la red compartida
 
 ```bash
